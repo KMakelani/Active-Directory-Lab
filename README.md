@@ -10,6 +10,7 @@ In this project I created an Active Directory home lab environment using Oracle 
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
+- <b>VirtualBox</b>
 
 <h2>Environments Used </h2>
 
